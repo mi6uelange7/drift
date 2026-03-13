@@ -1,0 +1,4 @@
+module OceanDSP {
+    header "OceanBridge.h"
+    export *
+}
